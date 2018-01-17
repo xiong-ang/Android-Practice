@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question1">北京是中国的首都？</string>
+    <string name="question2">鞍山是辽宁的省会？</string>
+    <string name="question3">武汉是湖北的省会？</string>
+    <string name="question4">西安是陕西的省会？</string>
+    <string name="buttom_true">是</string>
+    <string name="buttom_false">否</string>
+    <string name="buttom_answer">答案</string>
+    <string name="buttom_next">下一题</string>
+    <string name="buttom_prev">上一题</string>
+    <string name="correct_toast">正确！</string>
+    <string name="incorrect_toast">错误！</string>
+    <string name="complate_toast">恭喜，答题完成！</string>
+    <string name="judgement_toast">请勿作弊！</string>
+    <string name="error_text">出现错误！</string>
+</resources>
