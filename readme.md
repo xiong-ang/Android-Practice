@@ -69,4 +69,4 @@ public abstract class SingleFragmentActivity extends AppCompatActivity {
 ### Adapter                 
 > Adapter负责创建必要的ViewHolder以及绑定ViewHolder至模型层数据    
 ### 各成员关系：
-![]()
+![](https://github.com/xiong-ang/Android-Practice/blob/master/CriminalIntent/RecyclerView.PNG)
