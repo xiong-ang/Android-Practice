@@ -36,8 +36,9 @@ setResult(int resultCode, Intent data)
 onActivityResult(int requestCode, int resultCode, Intent data)
 ```          
 
-> Android权威指南第三版7-8章练习             
+
 # CriminalIntent        
+> Android权威指南第三版7-8章练习             
 ## Fragment                 
 > 采用Fragment而不是Activity管理应用UI，可以绕开Android系统Activity使用规则的限制，增加UI设计的灵活性             
 容纳单个Fragment的Activity抽象类：                 
